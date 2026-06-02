@@ -1,5 +1,7 @@
 # omp-zen-p10k
-Oh-My-Posh implementation of Powerlevel10K command prompt based on Zen
+Oh-My-Posh implementation of Powerlevel10K command prompt based on Zen.
+
+![Screenshot](https://raw.githubusercontent.com/rheijden/omp-zen-p10k/refs/heads/main/zen-p10k-omp.png)
 
 ## Why
 I like minimalistic and wanted to use Powerlevel10K for my terminal prompt. But as it's unmaintained at the moment, this was a good moment to think about alternatives.
