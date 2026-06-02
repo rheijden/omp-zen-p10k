@@ -13,8 +13,12 @@ Just copy the yml into your config directory of choice, eg. `~/.config/oh-my-pos
 
 and supply the config argument to point to this location from your shell rc file:
 
-`eval "$(oh-my-posh init zsh --config ~/.config/oh-my-posh/zen.yml)"`
+```
+eval "$(oh-my-posh init zsh --config ~/.config/oh-my-posh/zen.yml)"
+```
 
 or use it from this repo directly:
 
-`eval "$(oh-my-posh init zsh --config https://raw.githubusercontent.com/rheijden/omp-zen-p10k/refs/heads/main/zen.yml)"`
+```
+eval "$(oh-my-posh init zsh --config https://raw.githubusercontent.com/rheijden/omp-zen-p10k/refs/heads/main/zen.yml)"
+```
